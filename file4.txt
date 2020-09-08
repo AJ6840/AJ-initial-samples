@@ -1,1 +1,2 @@
-This is a new sample file by another developer
+This is a new sample file by another developer 
+Changed by a dev in github
