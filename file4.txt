@@ -1,4 +1,0 @@
-This is a new sample file by another developer
-I made some changes
-and more changes
-
